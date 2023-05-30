@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlad
 - 👀 I’m interested in Frontent
-- 🌱 I’m currently learning React, JS, Webpack
+- 🌱 I’m currently learning React, JS, Redux
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me https://t.me/vladpru334
 
